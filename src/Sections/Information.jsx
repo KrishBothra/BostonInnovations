@@ -2,7 +2,7 @@ import React from "react";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import irving from "./Assets/bostonInnovationIrving.jpg"
-import doug from "./Assets/DougRett.jpeg"
+import doug from "./Assets/dougRett.jpeg"
 import Slider from "react-slick";
 
 const InfoCard = ({ title, description, imageUrl }) => {
